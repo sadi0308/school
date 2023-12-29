@@ -1,6 +1,6 @@
 # Site settings
-title: "Melissa Ghislain"
-description: "CV recherche alternance cybersécurité"
+title: "Jekyll Resume TemplateCV"
+description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
